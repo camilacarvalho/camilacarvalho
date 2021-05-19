@@ -1,8 +1,8 @@
 <h1 align="center">Oi 👋, eu sou Camila</h1>
-<h3 align="center">Sou graduada em Ciência da Computação pela UFCG.</h3>
+<h3 align="center">Sou graduada em Ciência da Computação pela UFCG.</h3> Atualmente trabalho como desenvolvedora no Virtus. Estou sempre atualizando meu linkedIn e pinterest com dicas para desenvolvedores.
 Em meu <a href="https://camilacarvalho.github.io/">portfólio</a> você fica por dentro de minhas experiências profissionais.
 
-<h3 align="left">Entre em contato comigo:</h3>
+<h3 align="left">Você pode me encontrar em uma dessas redes sociais:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/camilacarvalhodasilva" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="camilacarvalhodasilva" /></a>
 <a href="https://instagram.com/camilacarvalho.js" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="camilacarvalho.js"/></a> <a href="https://br.pinterest.com/camilacarvalhojs" target="blank"><img align="center" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" alt="camilacarvalhojs"/></a>
